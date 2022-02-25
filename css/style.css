@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+  height: 100vh;
+}
+
+.tile {
+  border: 5px solid black;
+  width: 50px;
+  height: 40vh;
+  margin: 5px;
+}
